@@ -1,0 +1,27 @@
+{
+  "name": "jquery-datetimepicker",
+  "version": "1.0.1",
+  "description": "jquery.fn.datetimepicker 日期时间选择器",
+  "keywords": [
+    "jquery",
+    "yquery",
+    "ydr",
+    "datepicker",
+    "timepicker",
+    "datetimepicker"
+  ],
+  "author": {
+    "name":"cloudcome",
+    "email":"cloudcome@163.com"
+  },
+  "homepage": "https://ydr.me/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cloudcome/jquery-datetimepicker"
+  },
+  "licenses": "MIT",
+  "spm": {
+    "main": "jquery-datetimepicker.js",
+    "dependencies": {}
+  }
+}
